@@ -28,7 +28,7 @@ This project is designed to support decision-making for the following stakeholde
 - Predict which athletes are likely to rise into NIL Top 100 rankings using machine learning
 
 <p align="center">
-  <a href="presentation/NIL_Impact_TeamPresentation.pdf">
+  <a href="/NIL_Impact_TeamPresentation.pdf">
     <img src="images/presentation_main.png" alt="Main" width="600"/>
 </p>
 
@@ -54,7 +54,7 @@ This project is designed to support decision-making for the following stakeholde
 - Used ensemble models (**Random Forest, LightGBM, XGBoost**) and achieved **AUC = 0.9271**.
 
 <p align="center">
-  <a href="presentation/NIL_Impact_TeamPresentation.pdf">
+  <a href="/NIL_Impact_TeamPresentation.pdf">
     <img src="images/auc.png" alt="ROC Curve" width="600"/>
   </a>
 </p>
